@@ -1,0 +1,13 @@
+/auto-save-list/
+/elpa/
+/straight/
+/transient/
+
+history
+*.*~
+projects
+projectile-bookmarks.eld
+
+README.el
+
+\#*
